@@ -1,7 +1,8 @@
 import { StrictMode } from "react";
 import { createRoot } from "react-dom/client";
+import Index from "./Server/Index";
 import axios from "axios";
-import Page from "./Deploying/Form/Page";
+import Page from "./Form/Page";
 import "./index.css";
 /* import Appl from './App.jsx' */
 /* const noted = axios
