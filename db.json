@@ -1,0 +1,84 @@
+{
+  "notes": [
+    {
+      "id": "1381",
+      "content": "a new note....",
+      "important": true
+    },
+    {
+      "id": "6fcb",
+      "content": "a new note....",
+      "important": true
+    },
+    {
+      "id": "210d",
+      "content": "Tech innovation",
+      "important": false
+    },
+    {
+      "id": "7d87",
+      "content": "ade",
+      "important": false
+    },
+    {
+      "id": "d981",
+      "content": "a new note....",
+      "important": false
+    },
+    {
+      "id": "6ced",
+      "content": "hey",
+      "important": false
+    },
+    {
+      "id": "0a3b",
+      "content": "",
+      "important": false
+    },
+    {
+      "id": "cbb0",
+      "content": "a new note....",
+      "important": false
+    },
+    {
+      "id": "b9ad",
+      "content": "a new note....",
+      "important": false
+    },
+    {
+      "id": "8d4c",
+      "content": "a new note....",
+      "important": false
+    },
+    {
+      "id": "40dd",
+      "content": "hi",
+      "important": false
+    },
+    {
+      "id": "2341",
+      "content": "hi",
+      "important": false
+    },
+    {
+      "id": "5126",
+      "content": "hi",
+      "important": false
+    },
+    {
+      "id": "7dd2",
+      "content": "hi",
+      "important": false
+    },
+    {
+      "content": "hello bro",
+      "important": false,
+      "id": "4"
+    },
+    {
+      "id": "22",
+      "content": "Opooye",
+      "important": false
+    }
+  ]
+}
